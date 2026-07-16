@@ -8,3 +8,4 @@ Test sandbox for github-fs (auto-generated)
 
 edited via self-hosted github.dev at 2026-07-16
 staging test line 3c-2
+committed on feature/3c3-test branch
