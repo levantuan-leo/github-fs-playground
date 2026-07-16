@@ -7,3 +7,4 @@ Edited from github-fs to verify SCM panel and commit flow.
 Test sandbox for github-fs (auto-generated)
 
 edited via self-hosted github.dev at 2026-07-16
+staging test line 3c-2
